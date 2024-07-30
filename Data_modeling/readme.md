@@ -2,7 +2,7 @@
 
 ## 2024_DOAG_DualityViews
 Vortrag an der APEX Connect in Düsseldorf, April 2024
-Inhalt: An einem konkreten Beispiel wird gezeigt, wie die Duality Views funktionieren und was deren Stärken sind.
+Inhalt: An einem konkreten Beispiel wird gezeigt, wie die Duality Views funktionieren und was deren Stärken sind. Mit Duality Views können die Vorteile von JSON Dokumenten mit den Vorteilen der relationalen Tabellen kombiniert werden.
 Im Ordner 2024_Skripte_duality_view sind die Beispielskripte, die in den Folien erwähnt werden
 
 ## 2023_DOAG_Flexibel_v02

@@ -1,5 +1,13 @@
 # All publications about database development
 
+## 2025_MakeIT_ChatGPT_vs_Human
+Presentation at MakeIT in Portorož, Slovenia, May 2025
+Content: Andrea has already played around with ChatGPT and is convinced that she can write SQL queries faster with it. Dani is convinced that human intelligence is still better and faster when it comes to creating SQL queries. We'll see who is right in which scenario.
+
+## 2025_MakeIT_Moodle_DWH
+Presentation at MakeIT in Portorož, Slovenia, May 2025
+Content: In this session all the layers of a DWH are shown and explained together with the data models. Therefore, the session gives a good overview of the basic principles, how a DWH should be built nowadays. 
+
 ## 2024_HrOUG_ChatGPT_vs_Human_engl
 Presentation at HROUG in Rovini, Croatia, October 2024
 Content: Andrea has already played around with ChatGPT and is convinced that she can write SQL queries faster with it. Dani is convinced that human intelligence is still better and faster when it comes to creating SQL queries. We'll see who is right in which scenario.

@@ -3,6 +3,7 @@ In this repository the publicatinos of the recent years are collected.
 
 The past is continuously added with the goal to have all publications in this repository.
 
-| Date        | Conference  | Title    |
+| Date        | Conference  | Title    | Field
 |-------------|-------------|-------------|
-|2025 05 25 | MakeIT Slovenien | Does ChatGPT write more intelligent SQL queries than a human? |
+|2025 05 25 | MakeIT Slovenien | Does ChatGPT write more intelligent SQL queries than a human? | DB_development |
+|2025 05 25 | MakeIT Slovenien | A DWH in the Oracle Cloud: From the bucket to the dashboard |

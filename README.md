@@ -5,6 +5,8 @@ The past is continuously added with the goal to have all publications in this re
 
 | Date        | Conference  | Title    | Field
 |-------------|-------------|-------------|----|
+|2025 11 20 | DOAG Nürnberg | Spaß mit SQL: Wie Studis heute SQL lernen – und was du davon mitnehmen kannst | other_topics |
+|2025 11 19 | DOAG-KI NAVIGATOR Nürnberg | Das Leben einer Dozentin im Zeitalter von KI | other_topics |
 |2025 10 17 | HrOUG Croatia | A DWH in the Oracle Cloud: From the bucket to the dashboard | DB_development |
 |2025 06 27 | Tag der Lehre Brugg | Workshop zu Moodle-DWH | DB_development |
 |2025 05 25 | MakeIT Slovenien | Does ChatGPT write more intelligent SQL queries than a human? | DB_development |

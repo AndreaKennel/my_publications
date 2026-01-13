@@ -1,5 +1,13 @@
 # All publications about database development
 
+## 2025_HrOUG_DWH_Cloud
+Presentation at HROUG in Rovini, Croatia, October 2025
+Content: In this session all the layers of a DWH are shown and explained together with the data models. Therefore, the session gives a good overview of the basic principles, how a DWH should be built nowadays. 
+
+## 2025_fhnw_Moodle_DWH_v03
+Vortrag mit Workshop am Tag der Lehre an der fhnw Brugg, Juni 2025
+Inhalt: An der fhnw werden Prüfungen oft elektronisch durchgeführt. Dabei entstehen viele Daten, die ausgewertet werden können. Leider sind die Auswertemöglichkeiten in elektronischen Prüfungsumgebungen meist eingeschränkt. Daher haben wir an der Fachhochschule fhnw Brugg/Windisch ein DWH Piloten entwickelt, der Daten aus der elektronischen Prüfungsumgebungen Moodle bezieht und so aufbereitet, dass Analysen einfacher möglich sind. Im Vortrag wird gezeigt, wie das DWH modelliert. Während des Workshops erstellen die Teilnehmenden selber Prüfugnsfragen, die dann gelöst und ausgewertet werden.
+
 ## 2025_MakeIT_ChatGPT_vs_Human
 Presentation at MakeIT in Portorož, Slovenia, May 2025
 Content: Andrea has already played around with ChatGPT and is convinced that she can write SQL queries faster with it. Dani is convinced that human intelligence is still better and faster when it comes to creating SQL queries. We'll see who is right in which scenario.

@@ -5,6 +5,8 @@ The past is continuously added with the goal to have all publications in this re
 
 | Date        | Conference  | Title    | Field
 |-------------|-------------|-------------|----|
+|2025 10 17 | HrOUG Croatia | A DWH in the Oracle Cloud: From the bucket to the dashboard | DB_development |
+|2025 06 27 | Tag der Lehre Brugg | Workshop zu Moodle-DWH | DB_development |
 |2025 05 25 | MakeIT Slovenien | Does ChatGPT write more intelligent SQL queries than a human? | DB_development |
 |2025 05 25 | MakeIT Slovenien | A DWH in the Oracle Cloud: From the bucket to the dashboard | DB_development |
 |2024 11 21 | DOAG Nürnberg | Ein Pilot-DWH in der Oracle Cloud | DB_development |
